@@ -45,10 +45,10 @@ Unidad:
 1
 
 Título del trabajo:
-Ejercicios ......
+Practicas en WOKWI
 
 Estudiante:
-.......
+Espinoza Castillo Alejandro
 
 	</p>
 
