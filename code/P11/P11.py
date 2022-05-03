@@ -1,3 +1,6 @@
+#Espinoza Castillo Alejandro
+#Muestra en una pantalla LCD el tiempo real y la fecha del mismo dia
+
 from machine import I2C, Pin
 from urtc import DS1307
 import utime

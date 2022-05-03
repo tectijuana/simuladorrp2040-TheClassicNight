@@ -1,3 +1,6 @@
+#Espinoza Castillo Alejandro
+#El servo motor se mueve cada cierto tiempo
+
 import time
 from machine import Pin, PWM
 

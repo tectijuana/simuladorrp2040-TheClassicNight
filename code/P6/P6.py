@@ -1,3 +1,6 @@
+#Espinoza Castillo Alejandro
+#Muestra en una pantalla lcd la medicion de temperatura y humedad del sensor DS1307
+
 from machine import I2C, Pin
 from time import sleep
 from pico_i2c_lcd import I2cLcd

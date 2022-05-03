@@ -1,4 +1,6 @@
-print("Hello, Pi Pico!")
+#Espinoza Castillo Alejandro
+#Muestra un mensaje en la pantalla oled
+
 from machine import Pin, I2C
 from ssd1306 import SSD1306_I2C
 

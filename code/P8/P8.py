@@ -1,3 +1,6 @@
+#Espinoza Castillo Alejandro
+#Muestra unos mensajes en las pantallas LCD para mostrar su funcionamiento
+
 from machine import Pin
 from time import sleep_ms
 from lcd import LCD

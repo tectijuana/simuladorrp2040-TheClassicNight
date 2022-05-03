@@ -1,3 +1,6 @@
+#Espinoza Castillo Alejandro
+#Muestra en la consola la medicion del sensor de ultrasonido y una variacion de colores en el led rgb 
+
 from machine import Pin
 import utime
  

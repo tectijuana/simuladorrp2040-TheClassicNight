@@ -2,7 +2,8 @@ from machine import Pin
 import utime
 
 
-# Create a map between keypad buttons and characters
+#Espinoza Castillo Alejandro
+#Si presionas la combinacion de numeros correcta mandara un aviso en la consola
 
 matrix_keys = [['1', '2', '3', 'A'],
                ['4', '5', '6', 'B'],

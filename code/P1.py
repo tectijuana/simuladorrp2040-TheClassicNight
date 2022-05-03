@@ -1,6 +1,9 @@
 from machine import Pin
 import utime
 
+#Espinoza Castillo Alejandro
+#Si se presiona el boton o esta activado el switch el led se prende
+
 led = Pin(16,Pin.OUT)
 
 button = Pin(15,Pin.IN)

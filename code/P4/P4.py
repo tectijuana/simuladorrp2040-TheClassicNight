@@ -1,3 +1,6 @@
+#Espinoza Castillo Alejandro
+#Muestra una combinacion de colores con la ruleta de neopixel y un neopixel
+
 from neopixel import Neopixel
 import utime
 import random

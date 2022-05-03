@@ -1,3 +1,6 @@
+#Espinoza Castillo Alejandro
+#Muestra en la consola la medicion de los 2 potenciometros
+
 import machine
 import utime
 

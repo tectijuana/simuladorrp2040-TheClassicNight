@@ -1,3 +1,6 @@
+#Espinoza Castillo Alejandro
+#Muestra en el dot matrix un mesaje "STechiezDIY" y al reves
+
 import max7219
 from machine import Pin, SPI
 from time import sleep
