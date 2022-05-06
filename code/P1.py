@@ -1,6 +1,3 @@
-#Espinoza Castillo Alejandro
-#Cada vez que presionas el boton se prende el led
-
 from machine import Pin
 import utime
 
